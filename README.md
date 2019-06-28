@@ -30,4 +30,9 @@ This repo is created as  the display board of students's team project.
   - Screenshot:
     ![c4t2](2019/screenshots/c4t2.png)
 
+- [Bejeweled](https://github.com/Morwind-WYW/3_8match3?tdsourcetag=s_pctim_aiomsg)
+  - Description:  Perhaps the most insanely addictive puzzle game ever.
+  - Screenshot:
+    ![c3t8](2019/screenshots/c3t8.png)
+
 - To be continued...
