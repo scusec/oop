@@ -14,7 +14,7 @@ This repo is created as  the display board of students's team project.
   - Srceenshot:
     ![c1t3](./2019/screenshots/c1t3.png)
 
-- [CCHESS](https://github.com/HiramWHL/CCHESS?tdsourcetag=s_pctim_aiomsg)
+- [CCHESS](https://github.com/HiramWHL/CCHESS)
 
   - Description: The interesting Chinese chess.
   - Srceenshot:
@@ -30,9 +30,19 @@ This repo is created as  the display board of students's team project.
   - Screenshot:
     ![c4t2](2019/screenshots/c4t2.png)
 
-- [Bejeweled](https://github.com/Morwind-WYW/3_8match3?tdsourcetag=s_pctim_aiomsg)
+- [Bejeweled](https://github.com/Morwind-WYW/3_8match3)
   - Description:  Perhaps the most insanely addictive puzzle game ever.
   - Screenshot:
     ![c3t8](2019/screenshots/c3t8.png)
+
+- [Cloudmusic](https://github.com/KingSF5/Cloudmusic)
+  - Description: Cache tool for netease music.
+  - Screenshot:
+    ![t1c9](2019/screenshots/t1c9.jpg)
+
+- [TankWar](https://github.com/HJWinSCU/TankWar)
+  - Description: A classic game that we may all played in our childhood.
+  - Screenshot:
+    ![t4c3](2019/screenshots/t4c3.png)
 
 - To be continued...
