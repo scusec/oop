@@ -38,11 +38,36 @@ This repo is created as  the display board of students's team project.
 - [Cloudmusic](https://github.com/KingSF5/Cloudmusic)
   - Description: Cache tool for netease music.
   - Screenshot:
-    ![t1c9](2019/screenshots/t1c9.jpg)
+    ![t1c9](2019/screenshots/c1t9.jpg)
 
 - [TankWar](https://github.com/HJWinSCU/TankWar)
   - Description: A classic game that we may all played in our childhood.
   - Screenshot:
-    ![t4c3](2019/screenshots/t4c3.png)
+    ![t4c3](2019/screenshots/c4t3.png)
+
+- [game2048](https://github.com/Superrrtan/finalwork)
+  - Descriptio: None.
+  - Screenshot:
+    ![t1c4](2019/screenshots/c1t4.png)
+
+- [Bank-Administration-system](https://github.com/dalision/Bank-Administration-system)
+  - Description: A simple bank manager system.
+  - Screenshot:
+    ![t3c6](2019/screenshots/c3t6.png)
+
+- [Lottery_System](https://github.com/E-11/Lottery_System)
+  - Description: Pick the luck one.
+  - Screenshot:
+    ![t2c8](2019/screenshots/c2t8.jpg)
+
+- [FiveComBo](https://github.com/Superrrtan/FiveComBo)
+  - Description: A simple  gobang game.
+  - Screenshot:
+    ![t1c7](2019/screenshots/c1t7.png)
+
+- [FlightManageSystem](https://github.com/CenturyOYC/FlightManageSystem)
+  - Description: The ticks sale system for airport.
+  - Screenshot:
+    ![c2t9](2019/screenshots/c2t9.jpg)
 
 - To be continued...
