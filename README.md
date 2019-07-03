@@ -70,4 +70,9 @@ This repo is created as  the display board of students's team project.
   - Screenshot:
     ![c2t9](2019/screenshots/c2t9.jpg)
 
+- [fightwithlandlord](https://github.com/foreverbeatlong/fightwithlandlord)
+  - Description: Card game.
+  - Screenshot:
+    ![c2t3](2019/screenshots/c2t3.jpg)
+
 - To be continued...
