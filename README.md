@@ -80,4 +80,10 @@ This repo is created as  the display board of students's team project.
 
 ### Project in 2020
 
+- [SCUAssistant](https://gitee.com/Full_Stackecery/ScuAssistant)
+  - Description: A crawler-based assistant software.
+  - Additional item: [JavaWeb Project](https://github.com/Stakcery/ScuHelper-JavaWeb-)
+  - Screenshot:
+    ![g1p1](2020/screenshots/g1p1.jpg)
+	![g1p2](2020/screenshots/g1p2.jpg)
 - To be continued...
