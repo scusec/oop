@@ -13,6 +13,6 @@ This page is created as  the display board of students's team project in 2020.
   - Description: A crawler-based assistant software.
   - Additional item: [JavaWeb Project](https://github.com/Stakcery/ScuHelper-JavaWeb-)
   - Screenshot:
-    ![g1p1](screenshots/g1p1.jpg)
-	![g1p2](screenshots/g1p2.jpg)
+    ![g1p1](screenshots/g1p1.JPG)
+	![g1p2](screenshots/g1p2.JPG)
 - To be continued...

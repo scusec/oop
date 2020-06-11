@@ -8,7 +8,7 @@ This repo is created as  the display board of students's team project.
 
 ## Collection
 
-### Project in 2019
+### [Project in 2019](https://github.com/scusec/oop/tree/master/2019) 
 
 - [Hail-Of-Bullets](https://github.com/iishuu/Hail-Of-Bullets)
 
@@ -52,7 +52,7 @@ This repo is created as  the display board of students's team project.
   - Description: Card game.
 
 
-### Project in 2020
+### [Project in 2020](https://github.com/scusec/oop/tree/master/2020)
 
 - [SCUAssistant](https://gitee.com/Full_Stackecery/ScuAssistant)
   - Description: A crawler-based assistant software.
