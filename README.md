@@ -57,4 +57,11 @@ This repo is created as  the display board of students's team project.
 - [SCUAssistant](https://gitee.com/Full_Stackecery/ScuAssistant)
   - Description: A crawler-based assistant software.
   - Additional item: [JavaWeb Project](https://github.com/Stakcery/ScuHelper-JavaWeb-)
+
+- [GroupTestRepo](https://github.com/1TreeForest/GroupTestRepo)
+  - Description: An airplane war game.
+
+- [Tomato Clock](https://github.com/glory1213/java_project)
+  - Description: A simple tomato clock for PC version.
+
 - To be continued...
